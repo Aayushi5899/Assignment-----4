@@ -1,0 +1,17 @@
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.RazorComponent.input.cache
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\ayush\OneDrive\Documents\GitHub\Assignment-----4\TodoList\obj\Debug\net5.0\TodoList.RazorComponent.output.cache
